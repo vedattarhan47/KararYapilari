@@ -23,11 +23,9 @@ namespace WFA_KararYapilari
             >=  Soldaki değerin, sağdaki değerden büyük veya eşit olma durumu
             ==  Soldaki değerin, sağdaki değere eşit olma durumu
             !=  Soldaki değerin, sağdaki değere eşit olmama durumu
-            !   If bloğu içerisinde yer alan değeri olmuz alma durumu 
-
-             */
-
-
+            !   If bloğu içerisinde yer alan değeri olmuz alma durumu  
+             */ 
+             
             /*
               KARAR YAPILARI
               Uygulamanizin calismasi esnasinda farkli senaryolara gore farkli yonlendirmeler yapmaniz gerekebilir. Ornegin, kullanicidan gelen degerin araligina gore, uygulamadaki mantiksal islerinizin sonuclarina gore yonlendirmeler yapabiliriz. 
